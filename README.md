@@ -15,8 +15,8 @@ Russian news classification with Skip-Gram
 The Word2Vec algorithm finds much more efficient representations by finding vectors that represent the words. These vectors also contain semantic information about the words.
 
 There are two architectures for implementing Word2Vec:
->* CBOW (Continuous Bag-Of-Words) and 
-* Skip-gram
+>* CBOW (Continuous Bag-Of-Words)
+>* Skip-gram
 
 <img src="Images/word2vec_architectures.jpg" width=60%>
 
